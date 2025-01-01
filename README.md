@@ -1,0 +1,2 @@
+Django User Authentication App.
+
