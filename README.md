@@ -5,3 +5,5 @@ Django User Authentication App
 ![Screenshot 2025-01-02 013237](https://github.com/user-attachments/assets/e20a9688-b0b7-4d2c-ad18-76ee72369812)
 3. Dashboard Page
    ![Screenshot 2025-01-02 013444](https://github.com/user-attachments/assets/a0ffd670-ebe1-4295-a9e1-15112c9d9cf6)
+4. Profile Page
+   ![Screenshot 2025-01-02 013456](https://github.com/user-attachments/assets/b741a88a-f79e-40a8-92ff-aaa5981a9630)
