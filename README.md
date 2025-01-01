@@ -10,3 +10,6 @@ Django User Authentication App
 5. Forgot Password
    ![Screenshot 2025-01-02 013524](https://github.com/user-attachments/assets/72a778b6-9ba1-4abf-87d3-6a50af2bd7b8)
 
+6. Change Password
+   ![Screenshot 2025-01-02 013511](https://github.com/user-attachments/assets/19b5cc97-4d3a-4cf7-a7d9-e61c8143a372)
+![Screenshot 2025-01-02 013537](https://github.com/user-attachments/assets/10605ce3-5cea-4a6a-ae5b-8b45858aabf6)
