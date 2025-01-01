@@ -1,0 +1,32 @@
+{% extends 'layouts/app.html' %}
+
+{% block content %}
+
+<body>
+
+    <header>
+        <h1>Welcome to Your Dashboard</h1>
+    </header>
+
+    <div class="container">
+        <h2>Hi, {{ user.username }}!</h2>
+        <ul>
+            <li><a href="{% url 'profile' %}">View Profile</a></li>
+            <li><a href="{% url 'change_password' %}">Change Password</a></li>
+            <li>
+                <form method="post" action="{% url 'logout' %}">
+                    {% csrf_token %}
+                    <button type="submit">Logout</button>
+                </form>
+            </li>
+        </ul>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2024 Your Website. All rights reserved.</p>
+    </div>
+
+</body>
+
+
+{% endblock %}
